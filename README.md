@@ -1,1 +1,10 @@
-# maryam-bala.github.io
+# Data Scientist 
+
+### Education 
+Beng Engineering 
+MSc Artificial Intelligence 
+
+## Projects
+
+
+

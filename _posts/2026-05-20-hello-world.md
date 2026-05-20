@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hello, World — A Little About Me and Why I'm Here"
+title: "A Little About Me"
 date: 2026-05-20
 categories: [personal]
 tags: [phd, intro]

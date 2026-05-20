@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Maryam — a PhD student at the [SUSTAI Centre for Doctoral Training](https://www.southampton.ac.uk/sustai), University of Southampton, where I work at the intersection of Artificial Intelligence and Sustainability.
 
-My research focuses on developing a **Decision Support Toolkit for Shared Energy Systems**, designing AI-based tools that help organisations make smarter, data-driven decisions about energy use across groups of buildings. 
+My research focuses on developing a Decision Support Toolkit for Shared Energy Systems, designing AI-based tools that help organisations make smarter, data-driven decisions about energy use across groups of buildings. 
 
 
 ## Research interests

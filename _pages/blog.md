@@ -5,10 +5,10 @@ permalink: /blog/
 author_profile: true
 ---
 
-{% raw %}{% for post in site.posts %}
+{% for post in site.posts %}
   {% include archive-single.html %}
-{% endfor %}{% endraw %}
+{% endfor %}
 
-{% raw %}{% if site.posts.size == 0 %}{% endraw %}
+{% if site.posts.size == 0 %}
   <p>No posts yet — check back soon!</p>
-{% raw %}{% endif %}{% endraw %}
+{% endif %}

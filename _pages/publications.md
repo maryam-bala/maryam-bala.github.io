@@ -16,7 +16,7 @@ author_profile: true
     Investigates pragmatic modelling in child-directed dialogue, focusing on how caregivers use question-answer sequences as feedback mechanisms in language learning contexts.
   </p>
 
-  <a href="#" style="display: inline-flex; align-items: center; gap: 6px; border: 1px solid #ddd; padding: 5px 14px; border-radius: 6px; font-size: 0.85em; text-decoration: none; color: #333; margin-top: 0.3em;">
+  <a href="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.897.pdf" style="display: inline-flex; align-items: center; gap: 6px; border: 1px solid #ddd; padding: 5px 14px; border-radius: 6px; font-size: 0.85em; text-decoration: none; color: #333; margin-top: 0.3em;">
     📄 PAPER
   </a>
 </div>

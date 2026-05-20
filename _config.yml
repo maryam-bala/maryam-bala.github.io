@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Maryam Bala"
   avatar           : "/assets/images/maryam.jpeg"
-  bio              : "PhD researcher at the SUSTAI Centre for Doctoral Training, University of Southampton. Working on AI-based decision support tools for sustainable energy systems."
+  bio              : "PhD Researcher, University of Southampton"
   location         : "Southampton, UK"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -131,12 +131,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=PuwOM5YAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/maryam-bala"
+      url: "https://github.com/maryam-bala"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

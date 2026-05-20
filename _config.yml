@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Maryam Bala"
-  avatar           : "/assets/images/maryam.jpg"
+  avatar           : "/assets/images/maryam.jpeg"
   bio              : "PhD researcher at the SUSTAI Centre for Doctoral Training, University of Southampton. Working on AI-based decision support tools for sustainable energy systems."
   location         : "Southampton, UK"
   email            :
